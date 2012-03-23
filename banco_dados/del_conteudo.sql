@@ -1,0 +1,13 @@
+USE pizza;
+TRUNCATE bebida;
+TRUNCATE conteudo;
+TRUNCATE endereco;
+TRUNCATE entregador;
+TRUNCATE lanche;
+TRUNCATE massa;
+TRUNCATE outro;
+TRUNCATE pedido;
+TRUNCATE pessoa;
+TRUNCATE sabor;
+TRUNCATE sobremesa;
+TRUNCATE tamanho;
